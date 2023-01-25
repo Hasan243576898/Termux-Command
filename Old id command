@@ -1,0 +1,5 @@
+pip install rich
+rm -rf cloneBD
+git clone https://github.com/hasan/cloneBD
+cd cloneBD
+python mahdi.py
